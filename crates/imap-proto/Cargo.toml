@@ -13,4 +13,4 @@ chrono = { version = "0.4"}
 trc = { path = "../trc" }
 
 [dev-dependencies]
-tokio = { version = "1.23", features = ["full"] }
+tokio = { version = "1.43", features = ["full"] }
